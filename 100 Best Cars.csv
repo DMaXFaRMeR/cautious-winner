@@ -1,0 +1,101 @@
+Name,Starting Date,Car Type,Manufacturing Country,Engine,Top Speed,0 to 60,Power
+Audi 80,1986,Saloon,Germany,"1781cc, 4-cyl",114mph,11.1s,110bhp
+Daimler Double-Six,1972,Saloon,United Kingdom,"5345cc, 12-cyl",151mph,8.1s,2.91bhp
+Facel Vega HK500,1959,Coupé,France,"6279cc, 8-cyl",147mph,8.5s,335bhp
+Vauxhall Cavalier Mk2,1981,Saloon,United Kingdom,"1598cc, 4-cyl",108mph,12s,75bhp
+Lancia Lambda,1922,Convertible,Italy,"2121cc, 4-cyl",74mph,,49bhp
+Buick Riviera,1963,Saloon,United States,"6965cc, 8-cyl",123mph,7.7s,340bhp
+Maserati Bora,1971,Coupé,Italy,"4719cc, 8-cyl",162mph,6.5s,306bhp
+Triumph TR2,1953,Convertible,United Kingdom,"1991cc, 4-cyl",103mph,12.2s,90bhp
+Opel GT,1968,Coupé,Germany,"1898cc, 4-cyl",111mph,10.2s,88bhp
+BMW X5 Mk1,1999,SUV,Germany,"4398cc, 8-cyl",137mph,7.8s,227bhp
+Avions Voisin C28 Aerosport,1935,Saloon,France,"3080cc, 6-cyl",93mph,,102bhp
+Bristol 400,1935,Saloon,United Kingdom,"3080cc, 6-cyl",93mph,,80bhp
+Cord 810/812,1936,Coupé,United States,"4739cc, 8-cyl",102mph,13.5s,125bhp
+Hispano-Suiza H6,1919,Convertible,Spain,"6597cc, 6-cyl",85mph,,135bhp
+Riley MPH,1934,Convertible,United Kingdom,"1633cc, 6-cyl",70mph,,56bhp
+Skoda S110R,1970,Coupé,Czech Republic,"1107cc, 4-cyl",90mph,18.5s,52bhp
+Morgan Plus 8,1968,Convertible,United Kingdom,"3528cc, 8-cyl",125mph,6.7s,150bhp
+Honda Jazz Mk1,2001,Hatchback,Japan,"1400cc, 4-cyl",106mph,11.7s,75bhp
+Chevrolet Corvette C1/C2,1953,Convertible,United States,"5340cc, 8-cyl",142mph,5.9s,250bhp
+Bentley Continental GT Mk1,2003,Coupé,United Kingdom,"5998cc, 12-cyl",198mph,4.7s,542bhp
+Mazda RX-7,1978,Coupé,Japan,"1300cc, 1-cyl",156mph,5.4s,105bhp
+Mercedes-Benz 190,1982,Saloon,Germany,"1997cc, 4-cyl",123mph,9.7s,79bhp
+Pontiac GTO,1964,Coupé,United States,"6377cc, 8-cyl",122mph,6.9s,335bhp
+Austin-Healey 3000,1959,Convertible,United Kingdom,"2912cc, 6-cyl",116mph,11.4s,148bhp
+Bentley 8-Litre,1930,Saloon,United Kingdom,"7983cc, 8-cyl",125mph,,220bhp
+Saab 92,1949,Coupé,Sweden,"764cc, 2-cyl",65mph,,25bhp
+Jensen Interceptor,1966,Hatchback,United Kingdom,"6276cc, 8-cyl",133mph,7.3s,325bhp
+Audi R8,2006,Coupé,Germany,"4163cc, 8-cyl",187mph,4.3s,414bhp
+MGB,1962,Convertible,United Kingdom,"1798cc, 4-cyl",105mph,12.2s,95bhp
+Ferrari F40,1987,Coupé,Italy,"2936cc, 8-cyl",201mph,4.1s,478bhp
+Reliant Scimitar GTE,1968,Coupé,United Kingdom,"2995cc, 6-cyl",123mph,8.9s,138bhp
+Cadillac Eldorado,1959,Convertible,United States,"6382cc, 8-cyl",115mph,10.6s,375bhp
+Saab 900 Turbo,1978,Saloon,Sweden,"1985cc, 4-cyl",134mph,8.6s,143bhp
+Invicta Model S low-chassis,1930,Convertible,United Kingdom,"4467cc, 6-cyl",100mph,,115bhp
+Datsun 240Z,1969,Coupé,Japan,"2393cc, 6-cyl",125mph,8s,161bhp
+Mercedes-Benz SSK,1928,Convertible,Germany,"7069cc, 6-cyl",120mph,9.5s,250bhp
+TVR Griffith,1991,Convertible,United Kingdom,"3952cc, 8-cyl",152mph,4.7s,240bhp
+Toyota Land Cruiser,1955,SUV,Japan,"3869cc, 6-cyl",77mph,20.6s,108.5bhp
+Volvo 240,1974,Estate,Sweden,"2127cc, 4-cyl",106mph,11.4s,89bhp
+Rover 2000,1963,Saloon,United Kingdom,"1978cc, 4-cyl",105mph,15.1s,106bhp
+Jaguar Mark II,1959,Saloon,United Kingdom,"3781cc, 6-cyl",126mph,8.5s,220bhp
+Rolls-Royce Phantom VII,2003,Saloon,United Kingdom,"6749cc, 12-cyl",155mph,5.7s,454bhp
+Morris 1000,1948,Saloon,United Kingdom,"918cc, 4-cyl",58.7mph,50s,48bhp
+AC Cobra,1962,Convertible,United Kingdom,"4727cc, 8-cyl",140mph,5.5s,410bhp
+Caterham Super Seven,1973,Convertible,United Kingdom,"1588cc, 4-cyl",114mph,6.2s,140bhp
+Peugeot 504,1968,Saloon,France,"1796cc, 4-cyl",98mph,15.9s,79bhp
+Lotus Esprit,1976,Coupé,United Kingdom,"1973cc, 4-cyl",120mph,9.2s,160bhp
+BMW 3-Series,1975,Saloon,Germany,"1991cc, 6-cyl",112mph,10s,89bhp
+Lancia Stratos,1973,Coupé,Italy,"2419cc, 6-cyl",143mph,6s,225bhp
+Rolls-Royce Silver Ghost,1906,Convertible,United Kingdom,"7428cc, 6-cyl",80mph,,50bhp
+Mercedes-Benz 300 SEL,1968,Saloon,Germany,"6332cc, 8-cyl",142mph,6.3s,250bhp
+Alfa Romeo 6C GS/SS,1929,Convertible,Italy,"1754cc, 6-cyl",107mph,13.9s,84bhp
+Jaguar C-Type,1951,Convertible,United Kingdom,"3442cc, 6-cyl",151mph,6.6s,200bhp
+Lamborghini Countach,1974,Coupé,Italy,"3929cc, 12-cyl",192mph,6.8s,370bhp
+Alfa Romeo Giulia Sprint GT,1963,Coupé,Italy,"1570cc, 4-cyl",112mph,10.6s,122bhp
+CitroÃ«n Traction Avant,1934,Saloon,France,"1191cc, 4-cyl",76mph,22.1s,32bhp
+Lotus Elise,1996,Coupé,United Kingdom,"1796cc, 4-cyl",124mph,5.8s,118bhp
+Ferrari 458 Italia,2009,Coupé,Italy,"4497cc, 8-cyl",202mph,3.4s,562bhp
+Renault Espace,1984,MPV,France,"1995cc, 4-cyl",109mph,9.9s,106bhp
+Ford Focus Mk1,1998,Saloon,United Kingdom,"1596cc, 4-cyl",115mph,11.2s,100bhp
+Aston Martin Vanquish,2001,Coupé,United Kingdom,"5935cc, 12-cyl",190mph,4.4s,460bhp
+Morgan Supersports,1929,Convertible,United Kingdom,"1082cc, 2-cyl",80mph,,45bhp
+MG J2 Midget,1932,Convertible,United Kingdom,"847cc, 4-cyl",65mph,,36bhp
+Frazer Nash TT Replica,1932,Convertible,United Kingdom,"1499cc, 4-cyl",86mph,18s,60bhp
+Vauxhall 30/98,1913,Convertible,United Kingdom,"4224cc, 4-cyl",100mph,,112bhp
+Aston Martin Ulster,1934,Convertible,United Kingdom,"1495cc, 4-cyl",100mph,,80bhp
+Lancia Delta Integrale,1987,Hatchback,Italy,"1995cc, 4-cyl",130mph,6.4s,197bhp
+Bugatti Type 35,1924,Convertible,France,"1991cc, 8-cyl",90mph,,140bhp
+Honda NSX,1990,Coupé,Japan,"2977cc, 6-cyl",162mph,5.8s,270bhp
+Renault 5,1972,Hatchback,France,"956cc, 4-cyl",87mph,20.6s,43bhp
+Austin Seven,1922,Convertible,United Kingdom,"747cc, 4-cyl",52mph,35s,12bhp
+Lamborghini Miura,1966,Coupé,Italy,"3929cc, 12-cyl",192mph,6.8s,345bhp
+Ford Mustang,1965,Coupé,United States,"4195cc, 8-cyl",164mph,5.3s,105bhp
+Fiat Panda,1980,Hatchback,Italy,"903cc, 4-cyl",89mph,16.2s,34bhp
+Renault 4,1961,Hatchback,France,"845cc, 4-cyl",70mph,40.5s,24bhp
+Jaguar I-Pace,2018,SUV,United Kingdom,90KWh,124mph,4.8s,395bhp
+Toyota Prius,1997,Saloon,Japan,"1496cc, 4-cyl",99mph,13.4s,98bhp
+Ford Escort,1968,Saloon,United Kingdom,"1098cc, 4-cyl",7.9mph,22s,61.5bhp
+Mercedes-Benz 300SL,1954,Coupé,Germany,"2996cc, 6-cyl",155mph,8.8s,240bhp
+Ferrari 250 GT SWB,1959,Coupé,Italy,"2953cc, 12-cyl",168mph,6.3s,260bhp
+Tesla Model S,2012,Saloon,United States,85KWh,155mph,6.5s,382bhp
+BMW 328,1936,Convertible,Germany,"1971cc, 6-cyl",93mph,,80bhp
+Ford GT40,1964,Coupé,United States,"4195cc, 8-cyl",164mph,5.3s,380bhp
+McLaren F1,1992,Coupé,United Kingdom,"6064cc, 12-cyl",231mph,5.3s,618bhp
+CitroÃ«n 2CV,1948,Saloon,France,"425cc, 2-cyl",49.2mph,,14bhp
+Jaguar E-Type,1961,Coupé,United Kingdom,"3781cc, 6-cyl",151mph,6.9s,265bhp
+Audi Quattro,1980,Coupé,Germany,"2144cc, 5-cyl",137mph,7.1s,197bhp
+Land Rover Range Rover,1970,SUV,United Kingdom,"3528cc, 8-cyl",100mph,14.3s,133bhp
+Porsche 911,1963,Coupé,Germany,"1991cc, 6-cyl",132mph,9s,128bhp
+Mercedes-Benz S-class,1972,Saloon,Germany,"3499cc, 8-cyl",122mph,10.4s,120bhp
+Aston Martin DB5,1964,Coupé,United Kingdom,"3995cc, 6-cyl",145mph,7.1s,282bhp
+Bentley Speed Six,1928,Convertible,United Kingdom,"6597cc, 6-cyl",100mph,10s,180bhp
+Mazda MX-5,1989,Coupé,Japan,"1598cc, 4-cyl",126mph,8.3s,115bhp
+Volkswagen Beetle,1938,Saloon,Germany,"1192cc, 4-cyl",68mph,28s,23.5bhp
+BMC Mini,1959,Saloon,United Kingdom,"848cc, 4-cyl",74.5mph,26.5s,37bhp
+Land Rover Series 1,1948,SUV,United Kingdom,"1595cc, 4-cyl",58mph,,50bhp
+CitroÃ«n DS,1955,Saloon,France,"1911cc, 4-cyl",88.4mph,18.6s,74bhp
+Fiat Cinquecento Nuova,1957,Saloon,Italy,"479cc, 2-cyl",54mph,,13bhp
+Volkswagen Golf Mk1,1974,Hatchback,Germany,"1588cc, 4-cyl",107mph,14s,69bhp
+Ford Model T,1908,Convertible,United States,"2896cc, 4-cyl",45mph,,20bhp
